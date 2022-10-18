@@ -1,0 +1,8 @@
+org\example\controllers\BooksController.class
+org\example\dao\BookDAO.class
+org\example\config\SpringConfig.class
+org\example\controllers\PeopleController.class
+org\example\dao\PersonDAO.class
+org\example\models\Book.class
+org\example\config\MySpringMvcDispatcherSerlvetIntitializer.class
+org\example\models\Person.class
